@@ -1,4 +1,4 @@
-#Write a program in Python to choose a random item from a list?2
+#Write a program in Python to choose a random item from a list.
 
 dict={'key1':22,'key2':23}
 val=dict.values()
