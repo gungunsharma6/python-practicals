@@ -1,4 +1,4 @@
-#Write a program in python to map 2 lists into a dictionary?
+#Write a program in python to map 2 lists into a dictionary.
 from multiprocessing.sharedctypes import Value
 from optparse import Values
 
