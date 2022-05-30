@@ -1,4 +1,4 @@
-#Write a Python program to print the even numbers from a given list?
+#Write a Python program to print the even numbers from a given list.
 def is_even_num(l):
     enum = []
     for n in l:
