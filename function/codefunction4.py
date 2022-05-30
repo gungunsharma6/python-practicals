@@ -1,4 +1,4 @@
-#Write a Python program to reverse a string?
+#Write a Python program to reverse a string.
 def string_reverse(str1):
 
     rstr1 = ''
